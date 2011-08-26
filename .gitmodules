@@ -1,0 +1,15 @@
+[submodule "beohawk-arduino"]
+	path = beohawk-arduino
+	url = git@github.com:uscrs-art/beohawk-arduino.git
+[submodule "beohawk-ros"]
+	path = beohawk-ros
+	url = git@github.com:uscrs-art/beohawk-ros.git
+[submodule "beohawk-schematics"]
+	path = beohawk-schematics
+	url = git@github.com:uscrs-art/beohawk-schematics.git
+[submodule "iarc-paper"]
+	path = iarc-paper
+	url = git@github.com:uscrs-art/iarc-paper.git
+[submodule "beohawk-models"]
+	path = beohawk-models
+	url = git@github.com:uscrs-art/beohawk-models.git
