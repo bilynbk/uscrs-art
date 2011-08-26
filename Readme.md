@@ -8,4 +8,5 @@ Clone this repository as usual
     
 You'll have empty directories for each of our repositories, so run submodule update on all the folders.
 
+    git submodule init *
     git submodule update *
